@@ -1,0 +1,7 @@
+{
+  "name": "ZECREV CODER",
+  "description": "An AI-powered code generator that creates full-stack websites from text or voice prompts. Features real-time previews for various devices, code editing, history, and project management in tabs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

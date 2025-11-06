@@ -1,0 +1,29 @@
+{
+  "name": "zecrev-coder",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "@google/genai": "^1.29.0",
+    "@codemirror": "latest",
+    "@lezer/highlight": "1.2.0",
+    "@codemirror/view": "^6.38.6",
+    "@codemirror/state": "^6.5.2",
+    "@codemirror/lang-html": "^6.4.11",
+    "@codemirror/commands": "^6.10.0",
+    "@codemirror/theme-one-dark": "^6.1.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
